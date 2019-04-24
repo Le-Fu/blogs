@@ -9,7 +9,7 @@
 - [模块机制](https://github.com/Le-Fu/blogs/blob/master/js/modules.md)
 - [js中的错误捕获](https://github.com/Le-Fu/blogs/blob/master/js/%E5%A6%82%E4%BD%95%E6%8D%95%E8%8E%B7js%E7%9A%84%E6%8A%A5%E9%94%99%E4%BF%A1%E6%81%AF.md)
 - [事件绑定的进化](https://github.com/Le-Fu/blogs/blob/master/js/JS%E4%BA%8B%E4%BB%B6%E7%BB%91%E5%AE%9A%E7%9A%84%E8%BF%9B%E5%8C%96.md)
-- [js难点解读](https://zhuanlan.zhihu.com/p/34421918)
+- [js难点解读](https://github.com/Le-Fu/blogs/blob/master/js/js%E9%9A%BE%E7%82%B9%E8%A7%A3%E6%9E%90.md)
 ### css篇
 - [元素水平居中](https://github.com/Le-Fu/blogs/blob/master/css/horizontal.md)
 ### react篇

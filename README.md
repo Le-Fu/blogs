@@ -8,6 +8,7 @@
 - [this的指向问题](https://github.com/Le-Fu/blogs/blob/master/js/this%E6%8C%87%E5%90%91%E9%97%AE%E9%A2%98.md)
 - [模块机制](https://github.com/Le-Fu/blogs/blob/master/js/modules.md)
 - [事件绑定的进化](https://github.com/Le-Fu/blogs/blob/master/js/JS%E4%BA%8B%E4%BB%B6%E7%BB%91%E5%AE%9A%E7%9A%84%E8%BF%9B%E5%8C%96.md)
+- [js难点解读](https://zhuanlan.zhihu.com/p/34421918)
 ### css篇
 - [元素水平居中](https://github.com/Le-Fu/blogs/blob/master/css/horizontal.md)
 ### react篇

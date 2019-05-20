@@ -14,3 +14,7 @@
 - [元素水平居中](https://github.com/Le-Fu/blogs/blob/master/css/horizontal.md)
 ### react篇
 - [react常见问题之（isMounted is not a function）](https://github.com/Le-Fu/blogs/blob/master/react/isMounted%20is%20not%20a%20function.md)
+### redux篇
+- [Redux进阶系列1: React+Redux项目结构最佳实践](https://segmentfault.com/a/1190000010775697)
+- [Redux进阶系列2: 如何合理地设计Redux的State](https://segmentfault.com/a/1190000010867852)
+- [Redux进阶系列3：如何设计action、reducer、selector](https://segmentfault.com/a/1190000011064048)
